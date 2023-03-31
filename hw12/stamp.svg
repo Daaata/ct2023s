@@ -38,8 +38,46 @@
   <text x="70" y="9" style="font-size:0.75pt;">六 7.875</text>
 
   <!-- Your beautiful SVG code will end here -->
-  <!-- -->
+  <!-- 
+    北科大計算機
+    許　哲　維
+    工程實屬牛逼
+  -->
   <rect x="10" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="10.4" y="53.9" style="font-size:3pt;">北</text>
+  <rect x="14.833" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="15.233" y="53.9" style="font-size:3pt;;">科</text>
+  <rect x="19.666" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="20.066" y="53.9" style="font-size:3pt;">大</text>
+  <rect x="24.499" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="24.899" y="53.9" style="font-size:3pt;">計</text>
+  <rect x="29.332" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="29.732" y="53.9" style="font-size:3pt;">算</text>
+  <rect x="34.165" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="34.566" y="53.9" style="font-size:3pt;">機</text>
+
+  <rect x="10" y="54.833" width="9.6650" height="9.6650" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="10.9" y="62.733" style="font-size:6pt;">許</text>
+  <rect x="19.665" y="54.833" width="9.6650" height="9.6650" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="20.565" y="62.733" style="font-size:6pt;">哲</text>
+  <rect x="29.33" y="54.833" width="9.6650" height="9.6650" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="30.23" y="62.733" style="font-size:6pt;">維</text>
+
+  <rect x="10" y="64.498" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="10.4" y="68.398" style="font-size:3pt;">工</text>
+  <rect x="14.833" y="64.498" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="15.233" y="68.398" style="font-size:3pt;;">程</text>
+  <rect x="19.666" y="64.498" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="20.066" y="68.398" style="font-size:3pt;">實</text>
+  <rect x="24.499" y="64.498" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="24.899" y="68.398" style="font-size:3pt;">屬</text>
+  <rect x="29.332" y="64.498" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="29.732" y="68.398" style="font-size:3pt;">牛</text>
+  <rect x="34.165" y="64.498" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="34.566" y="68.398" style="font-size:3pt;">逼</text>
+  
+  <!--
+    <rect x="10" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
   <text x="10.4" y="53.9" style="font-size:3pt;">許</text>
   <rect x="10" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
   <text x="10.4" y="58.733" style="font-size:3pt;">哲</text>
@@ -57,7 +95,7 @@
   <text x="20.066" y="58.733" style="font-size:3pt;">科</text>
   <rect x="19.666" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
   <text x="20.066" y="63.566" style="font-size:3pt;">大</text>
-  <!-- -->
+   -->
 
   <rect x="50" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
   <text x="50.4" y="53.9" style="font-size:3pt;">褚</text>
